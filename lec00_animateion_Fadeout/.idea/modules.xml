@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/lec00_animateion_Fadeout.iml" filepath="$PROJECT_DIR$/.idea/modules/lec00_animateion_Fadeout.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/lec00_animateion_Fadeout.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/lec00_animateion_Fadeout.app.iml" />
+    </modules>
+  </component>
+</project>
